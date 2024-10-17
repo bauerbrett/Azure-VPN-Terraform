@@ -1,0 +1,1 @@
+Repository for the code in my "Azure - P2S Azure VPN Terraform" blog post.
